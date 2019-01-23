@@ -1,0 +1,16 @@
+PODS:
+  - DLKeyboardManager (0.0.2)
+
+DEPENDENCIES:
+  - DLKeyboardManager (from `../`)
+
+EXTERNAL SOURCES:
+  DLKeyboardManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DLKeyboardManager: 101fb97c6ae519b64b4e5e9906521a792c57d733
+
+PODFILE CHECKSUM: 53e2cb785b61d223ab11335c0adc176cb11e401b
+
+COCOAPODS: 1.5.3
